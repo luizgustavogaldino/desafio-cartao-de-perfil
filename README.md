@@ -30,8 +30,8 @@ Esta é uma soluçao para o desafio [Profile card component challenge no Dev Que
 
 ### Links
 
-- Repositório:[](https://your-solution-url.com)
-- Github Pages:[](https://your-live-site-url.com)
+- Repositório:[](https://github.com/luizgustavogaldino/desafio-cartao-de-perfil)
+- Github Pages:[](https://luizgustavogaldino.github.io/desafio-cartao-de-perfil/)
 
 ## Meu Processo
 Primeiramente iniciei a construção da base HTML e depois passei para a estilização com CSS, finalizando com o responsivo do mobile.
